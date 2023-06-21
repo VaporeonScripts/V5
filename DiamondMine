@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/VaporeonScripts/1479450e0340239051b7675467d02be6/raw/ab55bae88500667eb31a79e2f81be94b8dedecd5/PsxAllscriptsLoader"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/VaporeonScripts/1479450e0340239051b7675467d02be6/raw/b59a81038c137a3aa4b3a00d507d9be8f8719f14/PsxAllscriptsLoader"))()
